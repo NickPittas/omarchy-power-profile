@@ -21,3 +21,7 @@ omarchy bar put npittas.power-profile --before omarchy.power
 You can also toggle the dropdown from the command line: `omarchy-shell npittas.power-profile toggle`.
 
 Requires `power-profiles-daemon`.
+
+## License
+
+MIT

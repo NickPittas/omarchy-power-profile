@@ -17,5 +17,6 @@
     "category": "System",
     "allowMultiple": false,
     "defaultSection": "right"
-  }
+  },
+  "license": "MIT"
 }
