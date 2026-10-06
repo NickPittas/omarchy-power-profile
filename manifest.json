@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "npittas.power-profile",
+  "name": "Power Profile",
+  "version": "1.0.0",
+  "author": "npittas",
+  "description": "Pick a power profile from a popup; right-click or scroll to cycle",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "PowerProfile.qml"
+  },
+  "barWidget": {
+    "displayName": "Power Profile",
+    "description": "Pick a power profile from a popup; right-click or scroll to cycle",
+    "category": "System",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
